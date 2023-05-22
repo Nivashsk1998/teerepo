@@ -13,7 +13,7 @@ System.out.print("Lit of odd numbers: ");
 while(i<=number)  
 {  
 //prints the odd number  
-System.out.print(i +" ");   
+System.outoutout.print(i +" ");   
 //increments the variable i by 2  
 i=i+2;lk  
 }     
