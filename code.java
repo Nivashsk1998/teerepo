@@ -15,7 +15,7 @@ while(i<=number)
 //prints the odd number  
 System.out.print(i +" ");   
 //increments the variable i by 2  
-i=i+2;  
+i=i+2;lk  
 }     
 }  
 
