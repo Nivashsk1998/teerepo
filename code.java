@@ -6,7 +6,7 @@ public static void main(String[] args)
 int number, i;  
 Scanner sc=new Scanner(System.in);  
 System.out.print("Enter the limit: ");  
-number = sc.nextInt();    
+number = sc.nextInt();    bb
 i=1;   
 System.out.print("Lit of odd numbers: ");  
 //the while loop executes until the cond\ition become false  
