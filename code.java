@@ -12,7 +12,7 @@ System.out.print("Lit of odd numbers: ");
 //the while loop executes until the cond\ition become false  
 while(i<=number)  
 {  
-//prints the odd number  
+//prints the odd numb2323er  
 System.outoutout.print(i +" ");   
 //increments the variable i by 2  
 i=i+2;lk  
